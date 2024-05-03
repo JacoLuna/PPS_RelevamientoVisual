@@ -1,0 +1,7 @@
+{
+  "name": "relevamientoVisualApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
